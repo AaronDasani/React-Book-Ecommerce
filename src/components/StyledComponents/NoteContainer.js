@@ -40,6 +40,9 @@ export const NoteContainerStyle=styled.div`
       
         }
     }
+    .triangleContainer div {
+        left:3rem;
+    }
   
 }
 
