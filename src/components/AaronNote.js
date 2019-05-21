@@ -48,12 +48,12 @@ export default class AaronNote extends Component {
                             
                                 <div className="text-center">
                                     <p><strong>Portfolio:</strong></p>
-                                    <p><a href="//18.212.167.112/">​ http://18.212.167.112/</a></p>
+                                    <p><a href="http://18.212.167.112/">​ http://18.212.167.112/</a></p>
                                 </div>
                         
                             :
                                 <div className="text-center">
-                                    <p><strong>Portfolio:</strong><a href="//18.212.167.112/">​ http://18.212.167.112/</a></p>
+                                    <p><strong>Portfolio:</strong><a href="http://18.212.167.112/">​ http://18.212.167.112/</a></p>
                                     <p><strong>Github:</strong>​<a href="https://github.com/AaronDasani"> https://github.com/AaronDasani</a></p>
                                 </div>
                             }
