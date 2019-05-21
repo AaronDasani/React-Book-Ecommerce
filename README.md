@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Build and implemented using React,React-Bootstrap, Redux, Redux-Saga, Styled Component, Paypal developer sandbox, @media queries.
+Build and implemented using React,React-Bootstrap, Redux, Redux-Saga, Styled Component, PayPal developer sandbox, @media queries.
 
 "I made this <strong>Book Store</strong> project to challenge my knowledge on React, Redux, React-Saga and animation in React.
 
